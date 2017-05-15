@@ -1,13 +1,27 @@
 Nama Aplikasi : NontonTV
-Link APK : https://drive.google.com/drive/u/0/folders/0B5F2Em4b2oqfcGVUQ09HU3ZHaGM
+
+
+Link APK : https://drive.google.com/open?id=0B5F2Em4b2oqfWjlKS2MxWEZ0RjA
+
+
 IDENTITAS :
+
 Nama lengkap      : Via Alviola Sugiharto
+
 Kelas / No urut   : XIRPL4/32
-NIS               : 
+
+NIS               : 4846/1565.070
+
 Angkatan          : 24
+
 SMK Telkom Malang
+
+
 https://www.themoviedb.org/documentation/api
+
+
 Navigasi yang digunakan adalah Tabbed Activity
+
 
 Deskripsi :
 Aplikasi ini adalah aplikasi yang dibuat untuk menonton tv, dengan fitur sederhana, namun sangat bermanfaat jika anda berada diluar ruangan tanpa perlu membawa TV, 
@@ -16,9 +30,13 @@ hanya dengan swipe ke kanan atau ke kiri anda akan berpindah ke menu lainnya.
 Aplikasi ini memiliki kelengkapan dalam semua film yang ada pada TV. Tak lupa aplikasi ini memiliki design yang amat sangat simple dan tidak membosakan, 
 karna dari warna nya cerah mencerminkan kegembiraan dan design nya mudah dimengerti untuk pemula. 
 Aplikasi ini juga memiliki logo yang menarik.
+
+
 Kelebihan :
 Kelebihan aplikasi ini adalah anda tidak perlu bingung mencari TV saat anda keluar, 
 hanya dengan mendownload aplikasi ini anda dapat menikmati TV tanpa harus ketinggalan kelanjutannya
+
+
 ScreenShoot Aplikasi :
 ![screenshot_2017-05-14-23-31-40](https://cloud.githubusercontent.com/assets/22119180/26036069/39beb46c-3901-11e7-85c2-3f3c9bcddcab.png)
 ![screenshot_2017-05-14-23-31-48](https://cloud.githubusercontent.com/assets/22119180/26036071/39c55dbc-3901-11e7-9c75-7d6a36a6be93.png)
