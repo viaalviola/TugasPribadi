@@ -1,7 +1,7 @@
 Nama Aplikasi : NontonTV
 
 
-Link APK : https://drive.google.com/open?id=0B5F2Em4b2oqfWjlKS2MxWEZ0RjA
+Link APK : https://drive.google.com/drive/u/0/folders/0B5F2Em4b2oqfcGVUQ09HU3ZHaGM
 
 
 IDENTITAS :
