@@ -44,5 +44,8 @@ ScreenShoot Aplikasi :
 ![screenshot_2017-05-14-23-32-48](https://cloud.githubusercontent.com/assets/22119180/26036072/39c5c1f8-3901-11e7-830f-397f52c83869.png)
 ![screenshot_2017-05-14-20-43-23](https://cloud.githubusercontent.com/assets/22119180/26036073/39ca0632-3901-11e7-81fe-3405ca67cbe2.png)
 ![screenshot_2017-05-14-23-31-36](https://cloud.githubusercontent.com/assets/22119180/26036074/39cad01c-3901-11e7-9777-d5f5076933aa.png)
+setelah ditambahkan DB
+![capture](https://user-images.githubusercontent.com/22119180/27064849-ad8d2e12-5023-11e7-9306-672719b0ae74.PNG)
+
 
 
